@@ -29,3 +29,24 @@ A simple and responsive **To-Do application** built with **React**, using the br
 ```bash
 git clone https://github.com/your-username/to-do.git
 cd to-do
+
+---
+### 2. Install Dependencies
+npm install
+# or
+yarn install
+
+--
+### 3. Run App
+npm start
+# or
+yarn start
+
+
+--
+### Project Structure
+src/
+├── components/       # Reusable components (TaskList, TaskItem, etc.)
+├── App.js            # Main app component
+└── index.js          # Entry point
+
